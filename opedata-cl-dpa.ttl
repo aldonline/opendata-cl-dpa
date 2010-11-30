@@ -1,0 +1,417 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
+@base  <http://opendata.cl/v/> .
+
+comuna_15101 rdfs:label "Arica" ; provincia provincia_151 ; a Comuna . 
+comuna_15102 rdfs:label "Camarones" ; provincia provincia_151 ; a Comuna . 
+comuna_15201 rdfs:label "Putre" ; provincia provincia_152 ; a Comuna . 
+comuna_15202 rdfs:label "General Lagos" ; provincia provincia_152 ; a Comuna . 
+comuna_1101 rdfs:label "Iquique" ; provincia provincia_11 ; a Comuna . 
+comuna_1107 rdfs:label "Alto Hospicio" ; provincia provincia_11 ; a Comuna . 
+comuna_1401 rdfs:label "Pozo Almonte" ; provincia provincia_14 ; a Comuna . 
+comuna_1402 rdfs:label "Camiña" ; provincia provincia_14 ; a Comuna . 
+comuna_1403 rdfs:label "Colchane" ; provincia provincia_14 ; a Comuna . 
+comuna_1404 rdfs:label "Huara" ; provincia provincia_14 ; a Comuna . 
+comuna_1405 rdfs:label "Pica" ; provincia provincia_14 ; a Comuna . 
+comuna_2101 rdfs:label "Antofagasta" ; provincia provincia_21 ; a Comuna . 
+comuna_2102 rdfs:label "Mejillones" ; provincia provincia_21 ; a Comuna . 
+comuna_2103 rdfs:label "Sierra Gorda" ; provincia provincia_21 ; a Comuna . 
+comuna_2104 rdfs:label "Taltal" ; provincia provincia_21 ; a Comuna . 
+comuna_2201 rdfs:label "Calama" ; provincia provincia_22 ; a Comuna . 
+comuna_2202 rdfs:label "Ollagüe" ; provincia provincia_22 ; a Comuna . 
+comuna_2203 rdfs:label "San Pedro de Atacama" ; provincia provincia_22 ; a Comuna . 
+comuna_2301 rdfs:label "Tocopilla" ; provincia provincia_23 ; a Comuna . 
+comuna_2302 rdfs:label "María Elena" ; provincia provincia_23 ; a Comuna . 
+comuna_3101 rdfs:label "Copiapó" ; provincia provincia_31 ; a Comuna . 
+comuna_3102 rdfs:label "Caldera" ; provincia provincia_31 ; a Comuna . 
+comuna_3103 rdfs:label "Tierra Amarilla" ; provincia provincia_31 ; a Comuna . 
+comuna_3201 rdfs:label "Chañaral" ; provincia provincia_32 ; a Comuna . 
+comuna_3202 rdfs:label "Diego de Almagro" ; provincia provincia_32 ; a Comuna . 
+comuna_3301 rdfs:label "Vallenar" ; provincia provincia_33 ; a Comuna . 
+comuna_3302 rdfs:label "Alto del Carmen" ; provincia provincia_33 ; a Comuna . 
+comuna_3303 rdfs:label "Freirina" ; provincia provincia_33 ; a Comuna . 
+comuna_3304 rdfs:label "Huasco" ; provincia provincia_33 ; a Comuna . 
+comuna_4101 rdfs:label "La Serena" ; provincia provincia_41 ; a Comuna . 
+comuna_4102 rdfs:label "Coquimbo" ; provincia provincia_41 ; a Comuna . 
+comuna_4103 rdfs:label "Andacollo" ; provincia provincia_41 ; a Comuna . 
+comuna_4104 rdfs:label "La Higuera" ; provincia provincia_41 ; a Comuna . 
+comuna_4105 rdfs:label "Paiguano" ; provincia provincia_41 ; a Comuna . 
+comuna_4106 rdfs:label "Vicuña" ; provincia provincia_41 ; a Comuna . 
+comuna_4201 rdfs:label "Illapel" ; provincia provincia_42 ; a Comuna . 
+comuna_4202 rdfs:label "Canela" ; provincia provincia_42 ; a Comuna . 
+comuna_4203 rdfs:label "Los Vilos" ; provincia provincia_42 ; a Comuna . 
+comuna_4204 rdfs:label "Salamanca" ; provincia provincia_42 ; a Comuna . 
+comuna_4301 rdfs:label "Ovalle" ; provincia provincia_43 ; a Comuna . 
+comuna_4302 rdfs:label "Combarbalá" ; provincia provincia_43 ; a Comuna . 
+comuna_4303 rdfs:label "Monte Patria" ; provincia provincia_43 ; a Comuna . 
+comuna_4304 rdfs:label "Punitaqui" ; provincia provincia_43 ; a Comuna . 
+comuna_4305 rdfs:label "Río Hurtado" ; provincia provincia_43 ; a Comuna . 
+comuna_5101 rdfs:label "Valparaíso" ; provincia provincia_51 ; a Comuna . 
+comuna_5102 rdfs:label "Casablanca" ; provincia provincia_51 ; a Comuna . 
+comuna_5103 rdfs:label "Concón" ; provincia provincia_51 ; a Comuna . 
+comuna_5104 rdfs:label "Juan Fernández" ; provincia provincia_51 ; a Comuna . 
+comuna_5105 rdfs:label "Puchuncaví" ; provincia provincia_51 ; a Comuna . 
+comuna_5106 rdfs:label "Quilpué" ; provincia provincia_51 ; a Comuna . 
+comuna_5107 rdfs:label "Quintero" ; provincia provincia_51 ; a Comuna . 
+comuna_5108 rdfs:label "Villa Alemana" ; provincia provincia_51 ; a Comuna . 
+comuna_5109 rdfs:label "Viña del Mar" ; provincia provincia_51 ; a Comuna . 
+comuna_5201 rdfs:label "Isla de Pascua" ; provincia provincia_52 ; a Comuna . 
+comuna_5301 rdfs:label "Los Andes" ; provincia provincia_53 ; a Comuna . 
+comuna_5302 rdfs:label "Calle Larga" ; provincia provincia_53 ; a Comuna . 
+comuna_5303 rdfs:label "Rinconada" ; provincia provincia_53 ; a Comuna . 
+comuna_5304 rdfs:label "San Esteban" ; provincia provincia_53 ; a Comuna . 
+comuna_5401 rdfs:label "La Ligua" ; provincia provincia_54 ; a Comuna . 
+comuna_5402 rdfs:label "Cabildo" ; provincia provincia_54 ; a Comuna . 
+comuna_5403 rdfs:label "Papudo" ; provincia provincia_54 ; a Comuna . 
+comuna_5404 rdfs:label "Petorca" ; provincia provincia_54 ; a Comuna . 
+comuna_5405 rdfs:label "Zapallar" ; provincia provincia_54 ; a Comuna . 
+comuna_5501 rdfs:label "Quillota" ; provincia provincia_55 ; a Comuna . 
+comuna_5502 rdfs:label "Calera" ; provincia provincia_55 ; a Comuna . 
+comuna_5503 rdfs:label "Hijuelas" ; provincia provincia_55 ; a Comuna . 
+comuna_5504 rdfs:label "La Cruz" ; provincia provincia_55 ; a Comuna . 
+comuna_5505 rdfs:label "Limache" ; provincia provincia_55 ; a Comuna . 
+comuna_5506 rdfs:label "Nogales" ; provincia provincia_55 ; a Comuna . 
+comuna_5507 rdfs:label "Olmué" ; provincia provincia_55 ; a Comuna . 
+comuna_5601 rdfs:label "San Antonio" ; provincia provincia_56 ; a Comuna . 
+comuna_5602 rdfs:label "Algarrobo" ; provincia provincia_56 ; a Comuna . 
+comuna_5603 rdfs:label "Cartagena" ; provincia provincia_56 ; a Comuna . 
+comuna_5604 rdfs:label "El Quisco" ; provincia provincia_56 ; a Comuna . 
+comuna_5605 rdfs:label "El Tabo" ; provincia provincia_56 ; a Comuna . 
+comuna_5606 rdfs:label "Santo Domingo" ; provincia provincia_56 ; a Comuna . 
+comuna_5701 rdfs:label "San Felipe" ; provincia provincia_57 ; a Comuna . 
+comuna_5702 rdfs:label "Catemu" ; provincia provincia_57 ; a Comuna . 
+comuna_5703 rdfs:label "Llaillay" ; provincia provincia_57 ; a Comuna . 
+comuna_5704 rdfs:label "Panquehue" ; provincia provincia_57 ; a Comuna . 
+comuna_5705 rdfs:label "Putaendo" ; provincia provincia_57 ; a Comuna . 
+comuna_5706 rdfs:label "Santa María" ; provincia provincia_57 ; a Comuna . 
+comuna_6101 rdfs:label "Rancagua" ; provincia provincia_61 ; a Comuna . 
+comuna_6102 rdfs:label "Codegua" ; provincia provincia_61 ; a Comuna . 
+comuna_6103 rdfs:label "Coinco" ; provincia provincia_61 ; a Comuna . 
+comuna_6104 rdfs:label "Coltauco" ; provincia provincia_61 ; a Comuna . 
+comuna_6105 rdfs:label "Doñihue" ; provincia provincia_61 ; a Comuna . 
+comuna_6106 rdfs:label "Graneros" ; provincia provincia_61 ; a Comuna . 
+comuna_6107 rdfs:label "Las Cabras" ; provincia provincia_61 ; a Comuna . 
+comuna_6108 rdfs:label "Machalí" ; provincia provincia_61 ; a Comuna . 
+comuna_6109 rdfs:label "Malloa" ; provincia provincia_61 ; a Comuna . 
+comuna_6110 rdfs:label "Mostazal" ; provincia provincia_61 ; a Comuna . 
+comuna_6111 rdfs:label "Olivar" ; provincia provincia_61 ; a Comuna . 
+comuna_6112 rdfs:label "Peumo" ; provincia provincia_61 ; a Comuna . 
+comuna_6113 rdfs:label "Pichidegua" ; provincia provincia_61 ; a Comuna . 
+comuna_6114 rdfs:label "Quinta de Tilcoco" ; provincia provincia_61 ; a Comuna . 
+comuna_6115 rdfs:label "Rengo" ; provincia provincia_61 ; a Comuna . 
+comuna_6116 rdfs:label "Requínoa" ; provincia provincia_61 ; a Comuna . 
+comuna_6117 rdfs:label "San Vicente" ; provincia provincia_61 ; a Comuna . 
+comuna_6201 rdfs:label "Pichilemu" ; provincia provincia_62 ; a Comuna . 
+comuna_6202 rdfs:label "La Estrella" ; provincia provincia_62 ; a Comuna . 
+comuna_6203 rdfs:label "Litueche" ; provincia provincia_62 ; a Comuna . 
+comuna_6204 rdfs:label "Marchihue" ; provincia provincia_62 ; a Comuna . 
+comuna_6205 rdfs:label "Navidad" ; provincia provincia_62 ; a Comuna . 
+comuna_6206 rdfs:label "Paredones" ; provincia provincia_62 ; a Comuna . 
+comuna_6301 rdfs:label "San Fernando" ; provincia provincia_63 ; a Comuna . 
+comuna_6302 rdfs:label "Chépica" ; provincia provincia_63 ; a Comuna . 
+comuna_6303 rdfs:label "Chimbarongo" ; provincia provincia_63 ; a Comuna . 
+comuna_6304 rdfs:label "Lolol" ; provincia provincia_63 ; a Comuna . 
+comuna_6305 rdfs:label "Nancagua" ; provincia provincia_63 ; a Comuna . 
+comuna_6306 rdfs:label "Palmilla" ; provincia provincia_63 ; a Comuna . 
+comuna_6307 rdfs:label "Peralillo" ; provincia provincia_63 ; a Comuna . 
+comuna_6308 rdfs:label "Placilla" ; provincia provincia_63 ; a Comuna . 
+comuna_6309 rdfs:label "Pumanque" ; provincia provincia_63 ; a Comuna . 
+comuna_6310 rdfs:label "Santa Cruz" ; provincia provincia_63 ; a Comuna . 
+comuna_7101 rdfs:label "Talca" ; provincia provincia_71 ; a Comuna . 
+comuna_7102 rdfs:label "Constitución" ; provincia provincia_71 ; a Comuna . 
+comuna_7103 rdfs:label "Curepto" ; provincia provincia_71 ; a Comuna . 
+comuna_7104 rdfs:label "Empedrado" ; provincia provincia_71 ; a Comuna . 
+comuna_7105 rdfs:label "Maule" ; provincia provincia_71 ; a Comuna . 
+comuna_7106 rdfs:label "Pelarco" ; provincia provincia_71 ; a Comuna . 
+comuna_7107 rdfs:label "Pencahue" ; provincia provincia_71 ; a Comuna . 
+comuna_7108 rdfs:label "Río Claro" ; provincia provincia_71 ; a Comuna . 
+comuna_7109 rdfs:label "San Clemente" ; provincia provincia_71 ; a Comuna . 
+comuna_7110 rdfs:label "San Rafael" ; provincia provincia_71 ; a Comuna . 
+comuna_7201 rdfs:label "Cauquenes" ; provincia provincia_72 ; a Comuna . 
+comuna_7202 rdfs:label "Chanco" ; provincia provincia_72 ; a Comuna . 
+comuna_7203 rdfs:label "Pelluhue" ; provincia provincia_72 ; a Comuna . 
+comuna_7301 rdfs:label "Curicó" ; provincia provincia_73 ; a Comuna . 
+comuna_7302 rdfs:label "Hualañé" ; provincia provincia_73 ; a Comuna . 
+comuna_7303 rdfs:label "Licatén" ; provincia provincia_73 ; a Comuna . 
+comuna_7304 rdfs:label "Molina" ; provincia provincia_73 ; a Comuna . 
+comuna_7305 rdfs:label "Rauco" ; provincia provincia_73 ; a Comuna . 
+comuna_7306 rdfs:label "Romeral" ; provincia provincia_73 ; a Comuna . 
+comuna_7307 rdfs:label "Sagrada Familia" ; provincia provincia_73 ; a Comuna . 
+comuna_7308 rdfs:label "Teno" ; provincia provincia_73 ; a Comuna . 
+comuna_7309 rdfs:label "Vichuquén" ; provincia provincia_73 ; a Comuna . 
+comuna_7401 rdfs:label "Linares" ; provincia provincia_74 ; a Comuna . 
+comuna_7402 rdfs:label "Colbún" ; provincia provincia_74 ; a Comuna . 
+comuna_7403 rdfs:label "Longaví" ; provincia provincia_74 ; a Comuna . 
+comuna_7404 rdfs:label "Parral" ; provincia provincia_74 ; a Comuna . 
+comuna_7405 rdfs:label "Retiro" ; provincia provincia_74 ; a Comuna . 
+comuna_7406 rdfs:label "San Javier" ; provincia provincia_74 ; a Comuna . 
+comuna_7407 rdfs:label "Villa Alegre" ; provincia provincia_74 ; a Comuna . 
+comuna_7408 rdfs:label "Yerbas Buenas" ; provincia provincia_74 ; a Comuna . 
+comuna_8101 rdfs:label "Concepción" ; provincia provincia_81 ; a Comuna . 
+comuna_8102 rdfs:label "Coronel" ; provincia provincia_81 ; a Comuna . 
+comuna_8103 rdfs:label "Chiguayante" ; provincia provincia_81 ; a Comuna . 
+comuna_8104 rdfs:label "Florida" ; provincia provincia_81 ; a Comuna . 
+comuna_8105 rdfs:label "Hualqui" ; provincia provincia_81 ; a Comuna . 
+comuna_8106 rdfs:label "Lota" ; provincia provincia_81 ; a Comuna . 
+comuna_8107 rdfs:label "Penco" ; provincia provincia_81 ; a Comuna . 
+comuna_8108 rdfs:label "San Pedro de la Paz" ; provincia provincia_81 ; a Comuna . 
+comuna_8109 rdfs:label "Santa Juana" ; provincia provincia_81 ; a Comuna . 
+comuna_8110 rdfs:label "Talcahuano" ; provincia provincia_81 ; a Comuna . 
+comuna_8111 rdfs:label "Tomé" ; provincia provincia_81 ; a Comuna . 
+comuna_8112 rdfs:label "Hualpén" ; provincia provincia_81 ; a Comuna . 
+comuna_8201 rdfs:label "Lebu" ; provincia provincia_82 ; a Comuna . 
+comuna_8202 rdfs:label "Arauco" ; provincia provincia_82 ; a Comuna . 
+comuna_8203 rdfs:label "Cañete" ; provincia provincia_82 ; a Comuna . 
+comuna_8204 rdfs:label "Contulmo" ; provincia provincia_82 ; a Comuna . 
+comuna_8205 rdfs:label "Curanilahue" ; provincia provincia_82 ; a Comuna . 
+comuna_8206 rdfs:label "Los Alamos" ; provincia provincia_82 ; a Comuna . 
+comuna_8207 rdfs:label "Tirúa" ; provincia provincia_82 ; a Comuna . 
+comuna_8301 rdfs:label "Los Angeles" ; provincia provincia_83 ; a Comuna . 
+comuna_8302 rdfs:label "Antuco" ; provincia provincia_83 ; a Comuna . 
+comuna_8303 rdfs:label "Cabrero" ; provincia provincia_83 ; a Comuna . 
+comuna_8304 rdfs:label "Laja" ; provincia provincia_83 ; a Comuna . 
+comuna_8305 rdfs:label "Mulchén" ; provincia provincia_83 ; a Comuna . 
+comuna_8306 rdfs:label "Nacimiento" ; provincia provincia_83 ; a Comuna . 
+comuna_8307 rdfs:label "Negrete" ; provincia provincia_83 ; a Comuna . 
+comuna_8308 rdfs:label "Quilaco" ; provincia provincia_83 ; a Comuna . 
+comuna_8309 rdfs:label "Quilleco" ; provincia provincia_83 ; a Comuna . 
+comuna_8310 rdfs:label "San Rosendo" ; provincia provincia_83 ; a Comuna . 
+comuna_8311 rdfs:label "Santa Bárbara" ; provincia provincia_83 ; a Comuna . 
+comuna_8312 rdfs:label "Tucapel" ; provincia provincia_83 ; a Comuna . 
+comuna_8313 rdfs:label "Yumbel" ; provincia provincia_83 ; a Comuna . 
+comuna_8314 rdfs:label "Alto Biobío" ; provincia provincia_83 ; a Comuna . 
+comuna_8401 rdfs:label "Chillán" ; provincia provincia_84 ; a Comuna . 
+comuna_8402 rdfs:label "Bulnes" ; provincia provincia_84 ; a Comuna . 
+comuna_8403 rdfs:label "Cobquecura" ; provincia provincia_84 ; a Comuna . 
+comuna_8404 rdfs:label "Coelemu" ; provincia provincia_84 ; a Comuna . 
+comuna_8405 rdfs:label "Coihueco" ; provincia provincia_84 ; a Comuna . 
+comuna_8406 rdfs:label "Chillán Viejo" ; provincia provincia_84 ; a Comuna . 
+comuna_8407 rdfs:label "El Carmen" ; provincia provincia_84 ; a Comuna . 
+comuna_8408 rdfs:label "Ninhue" ; provincia provincia_84 ; a Comuna . 
+comuna_8409 rdfs:label "Ñiquén" ; provincia provincia_84 ; a Comuna . 
+comuna_8410 rdfs:label "Pemuco" ; provincia provincia_84 ; a Comuna . 
+comuna_8411 rdfs:label "Pinto" ; provincia provincia_84 ; a Comuna . 
+comuna_8412 rdfs:label "Portezuelo" ; provincia provincia_84 ; a Comuna . 
+comuna_8413 rdfs:label "Quillón" ; provincia provincia_84 ; a Comuna . 
+comuna_8414 rdfs:label "Quirihue" ; provincia provincia_84 ; a Comuna . 
+comuna_8415 rdfs:label "Ránquil" ; provincia provincia_84 ; a Comuna . 
+comuna_8416 rdfs:label "San Carlos" ; provincia provincia_84 ; a Comuna . 
+comuna_8417 rdfs:label "San Fabián" ; provincia provincia_84 ; a Comuna . 
+comuna_8418 rdfs:label "San Ignacio" ; provincia provincia_84 ; a Comuna . 
+comuna_8419 rdfs:label "San Nicolás" ; provincia provincia_84 ; a Comuna . 
+comuna_8420 rdfs:label "Treguaco" ; provincia provincia_84 ; a Comuna . 
+comuna_8421 rdfs:label "Yungay" ; provincia provincia_84 ; a Comuna . 
+comuna_9101 rdfs:label "Temuco" ; provincia provincia_91 ; a Comuna . 
+comuna_9102 rdfs:label "Carahue" ; provincia provincia_91 ; a Comuna . 
+comuna_9103 rdfs:label "Cunco" ; provincia provincia_91 ; a Comuna . 
+comuna_9104 rdfs:label "Curarrehue" ; provincia provincia_91 ; a Comuna . 
+comuna_9105 rdfs:label "Freire" ; provincia provincia_91 ; a Comuna . 
+comuna_9106 rdfs:label "Galvarino" ; provincia provincia_91 ; a Comuna . 
+comuna_9107 rdfs:label "Gorbea" ; provincia provincia_91 ; a Comuna . 
+comuna_9108 rdfs:label "Lautaro" ; provincia provincia_91 ; a Comuna . 
+comuna_9109 rdfs:label "Loncoche" ; provincia provincia_91 ; a Comuna . 
+comuna_9110 rdfs:label "Melipeuco" ; provincia provincia_91 ; a Comuna . 
+comuna_9111 rdfs:label "Nueva Imperial" ; provincia provincia_91 ; a Comuna . 
+comuna_9112 rdfs:label "Padre Las Casas" ; provincia provincia_91 ; a Comuna . 
+comuna_9113 rdfs:label "Perquenco" ; provincia provincia_91 ; a Comuna . 
+comuna_9114 rdfs:label "Pitrufquén" ; provincia provincia_91 ; a Comuna . 
+comuna_9115 rdfs:label "Pucón" ; provincia provincia_91 ; a Comuna . 
+comuna_9116 rdfs:label "Saavedra" ; provincia provincia_91 ; a Comuna . 
+comuna_9117 rdfs:label "Teodoro Schmidt" ; provincia provincia_91 ; a Comuna . 
+comuna_9118 rdfs:label "Toltén" ; provincia provincia_91 ; a Comuna . 
+comuna_9119 rdfs:label "Vilcún" ; provincia provincia_91 ; a Comuna . 
+comuna_9120 rdfs:label "Villarrica" ; provincia provincia_91 ; a Comuna . 
+comuna_9121 rdfs:label "Cholchol" ; provincia provincia_91 ; a Comuna . 
+comuna_9201 rdfs:label "Angol" ; provincia provincia_92 ; a Comuna . 
+comuna_9202 rdfs:label "Collipulli" ; provincia provincia_92 ; a Comuna . 
+comuna_9203 rdfs:label "Curacautín" ; provincia provincia_92 ; a Comuna . 
+comuna_9204 rdfs:label "Ercilla" ; provincia provincia_92 ; a Comuna . 
+comuna_9205 rdfs:label "Lonquimay" ; provincia provincia_92 ; a Comuna . 
+comuna_9206 rdfs:label "Los Sauces" ; provincia provincia_92 ; a Comuna . 
+comuna_9207 rdfs:label "Lumaco" ; provincia provincia_92 ; a Comuna . 
+comuna_9208 rdfs:label "Purén" ; provincia provincia_92 ; a Comuna . 
+comuna_9209 rdfs:label "Renaico" ; provincia provincia_92 ; a Comuna . 
+comuna_9210 rdfs:label "Traiguén" ; provincia provincia_92 ; a Comuna . 
+comuna_9211 rdfs:label "Victoria" ; provincia provincia_92 ; a Comuna . 
+comuna_14101 rdfs:label "Valdivia" ; provincia provincia_141 ; a Comuna . 
+comuna_14102 rdfs:label "Corral" ; provincia provincia_141 ; a Comuna . 
+comuna_14103 rdfs:label "Lanco" ; provincia provincia_141 ; a Comuna . 
+comuna_14104 rdfs:label "Los Lagos" ; provincia provincia_141 ; a Comuna . 
+comuna_14105 rdfs:label "Máfil" ; provincia provincia_141 ; a Comuna . 
+comuna_14106 rdfs:label "Mariquina" ; provincia provincia_141 ; a Comuna . 
+comuna_14107 rdfs:label "Paillaco" ; provincia provincia_141 ; a Comuna . 
+comuna_14108 rdfs:label "Panguipulli" ; provincia provincia_141 ; a Comuna . 
+comuna_14201 rdfs:label "La unión" ; provincia provincia_142 ; a Comuna . 
+comuna_14202 rdfs:label "Futrono" ; provincia provincia_142 ; a Comuna . 
+comuna_14203 rdfs:label "Lago Ranco" ; provincia provincia_142 ; a Comuna . 
+comuna_14204 rdfs:label "Río Bueno" ; provincia provincia_142 ; a Comuna . 
+comuna_10101 rdfs:label "Puerto Montt" ; provincia provincia_101 ; a Comuna . 
+comuna_10102 rdfs:label "Calbuco" ; provincia provincia_101 ; a Comuna . 
+comuna_10103 rdfs:label "Cochamó" ; provincia provincia_101 ; a Comuna . 
+comuna_10104 rdfs:label "Fresia" ; provincia provincia_101 ; a Comuna . 
+comuna_10105 rdfs:label "Frutillar" ; provincia provincia_101 ; a Comuna . 
+comuna_10106 rdfs:label "Los Muermos" ; provincia provincia_101 ; a Comuna . 
+comuna_10107 rdfs:label "Llanquihue" ; provincia provincia_101 ; a Comuna . 
+comuna_10108 rdfs:label "Maullín" ; provincia provincia_101 ; a Comuna . 
+comuna_10109 rdfs:label "Puerto Varas" ; provincia provincia_101 ; a Comuna . 
+comuna_10201 rdfs:label "Castro" ; provincia provincia_102 ; a Comuna . 
+comuna_10202 rdfs:label "Ancud" ; provincia provincia_102 ; a Comuna . 
+comuna_10203 rdfs:label "Chonchi" ; provincia provincia_102 ; a Comuna . 
+comuna_10204 rdfs:label "Curaco Vélez" ; provincia provincia_102 ; a Comuna . 
+comuna_10205 rdfs:label "Dalcahue" ; provincia provincia_102 ; a Comuna . 
+comuna_10206 rdfs:label "Puqueldón" ; provincia provincia_102 ; a Comuna . 
+comuna_10207 rdfs:label "Queilén" ; provincia provincia_102 ; a Comuna . 
+comuna_10208 rdfs:label "Quellón" ; provincia provincia_102 ; a Comuna . 
+comuna_10209 rdfs:label "Quemchi" ; provincia provincia_102 ; a Comuna . 
+comuna_10210 rdfs:label "Quinchao" ; provincia provincia_102 ; a Comuna . 
+comuna_10301 rdfs:label "Osorno" ; provincia provincia_103 ; a Comuna . 
+comuna_10302 rdfs:label "Puerto Octay" ; provincia provincia_103 ; a Comuna . 
+comuna_10303 rdfs:label "Purranque" ; provincia provincia_103 ; a Comuna . 
+comuna_10304 rdfs:label "Puyehue" ; provincia provincia_103 ; a Comuna . 
+comuna_10305 rdfs:label "Río Negro" ; provincia provincia_103 ; a Comuna . 
+comuna_10306 rdfs:label "San Juan de la Costa" ; provincia provincia_103 ; a Comuna . 
+comuna_10307 rdfs:label "San Pablo" ; provincia provincia_103 ; a Comuna . 
+comuna_10401 rdfs:label "Chaitén" ; provincia provincia_104 ; a Comuna . 
+comuna_10402 rdfs:label "Futaleufú" ; provincia provincia_104 ; a Comuna . 
+comuna_10403 rdfs:label "Hualaihué" ; provincia provincia_104 ; a Comuna . 
+comuna_10404 rdfs:label "Palena" ; provincia provincia_104 ; a Comuna . 
+comuna_11101 rdfs:label "Coihaique" ; provincia provincia_111 ; a Comuna . 
+comuna_11102 rdfs:label "Lago Verde" ; provincia provincia_111 ; a Comuna . 
+comuna_11201 rdfs:label "Aisén" ; provincia provincia_112 ; a Comuna . 
+comuna_11202 rdfs:label "Cisnes" ; provincia provincia_112 ; a Comuna . 
+comuna_11203 rdfs:label "Guaitecas" ; provincia provincia_112 ; a Comuna . 
+comuna_11301 rdfs:label "Cochrane" ; provincia provincia_113 ; a Comuna . 
+comuna_11302 rdfs:label "O'Higgins" ; provincia provincia_113 ; a Comuna . 
+comuna_11303 rdfs:label "Tortel" ; provincia provincia_113 ; a Comuna . 
+comuna_11401 rdfs:label "Chile Chico" ; provincia provincia_114 ; a Comuna . 
+comuna_11402 rdfs:label "Río Ibáñez" ; provincia provincia_114 ; a Comuna . 
+comuna_12101 rdfs:label "Punta Arenas" ; provincia provincia_121 ; a Comuna . 
+comuna_12102 rdfs:label "Laguna Blanca" ; provincia provincia_121 ; a Comuna . 
+comuna_12103 rdfs:label "Río Verde" ; provincia provincia_121 ; a Comuna . 
+comuna_12104 rdfs:label "San Gregorio" ; provincia provincia_121 ; a Comuna . 
+comuna_12201 rdfs:label "Cabo de Hornos" ; provincia provincia_122 ; a Comuna . 
+comuna_12202 rdfs:label "Antártica" ; provincia provincia_122 ; a Comuna . 
+comuna_12301 rdfs:label "Porvenir" ; provincia provincia_123 ; a Comuna . 
+comuna_12302 rdfs:label "Primavera" ; provincia provincia_123 ; a Comuna . 
+comuna_12303 rdfs:label "Timaukel" ; provincia provincia_123 ; a Comuna . 
+comuna_12401 rdfs:label "Natales" ; provincia provincia_124 ; a Comuna . 
+comuna_12402 rdfs:label "Torres del Paine" ; provincia provincia_124 ; a Comuna . 
+comuna_13101 rdfs:label "Santiago" ; provincia provincia_131 ; a Comuna . 
+comuna_13102 rdfs:label "Cerrillos" ; provincia provincia_131 ; a Comuna . 
+comuna_13103 rdfs:label "Cerro Navia" ; provincia provincia_131 ; a Comuna . 
+comuna_13104 rdfs:label "Conchalí" ; provincia provincia_131 ; a Comuna . 
+comuna_13105 rdfs:label "El Bosque" ; provincia provincia_131 ; a Comuna . 
+comuna_13106 rdfs:label "Estación Central" ; provincia provincia_131 ; a Comuna . 
+comuna_13107 rdfs:label "Huechuraba" ; provincia provincia_131 ; a Comuna . 
+comuna_13108 rdfs:label "Independencia" ; provincia provincia_131 ; a Comuna . 
+comuna_13109 rdfs:label "La Cisterna" ; provincia provincia_131 ; a Comuna . 
+comuna_13110 rdfs:label "La Florida" ; provincia provincia_131 ; a Comuna . 
+comuna_13111 rdfs:label "La Granja" ; provincia provincia_131 ; a Comuna . 
+comuna_13112 rdfs:label "La Pintana" ; provincia provincia_131 ; a Comuna . 
+comuna_13113 rdfs:label "La Reina" ; provincia provincia_131 ; a Comuna . 
+comuna_13114 rdfs:label "Las Condes" ; provincia provincia_131 ; a Comuna . 
+comuna_13115 rdfs:label "Lo Barnechea" ; provincia provincia_131 ; a Comuna . 
+comuna_13116 rdfs:label "Lo Espejo" ; provincia provincia_131 ; a Comuna . 
+comuna_13117 rdfs:label "Lo Prado" ; provincia provincia_131 ; a Comuna . 
+comuna_13118 rdfs:label "Macul" ; provincia provincia_131 ; a Comuna . 
+comuna_13119 rdfs:label "Maipú" ; provincia provincia_131 ; a Comuna . 
+comuna_13120 rdfs:label "Ñuñoa" ; provincia provincia_131 ; a Comuna . 
+comuna_13121 rdfs:label "Pedro Aguirre Cerda" ; provincia provincia_131 ; a Comuna . 
+comuna_13122 rdfs:label "Peñalolén" ; provincia provincia_131 ; a Comuna . 
+comuna_13123 rdfs:label "Providencia" ; provincia provincia_131 ; a Comuna . 
+comuna_13124 rdfs:label "Pudahuel" ; provincia provincia_131 ; a Comuna . 
+comuna_13125 rdfs:label "Quilicura" ; provincia provincia_131 ; a Comuna . 
+comuna_13126 rdfs:label "Quinta Normal" ; provincia provincia_131 ; a Comuna . 
+comuna_13127 rdfs:label "Recoleta" ; provincia provincia_131 ; a Comuna . 
+comuna_13128 rdfs:label "Renca" ; provincia provincia_131 ; a Comuna . 
+comuna_13129 rdfs:label "San Joaquín" ; provincia provincia_131 ; a Comuna . 
+comuna_13130 rdfs:label "San Miguel" ; provincia provincia_131 ; a Comuna . 
+comuna_13131 rdfs:label "San Ramón" ; provincia provincia_131 ; a Comuna . 
+comuna_13132 rdfs:label "Vitacura" ; provincia provincia_131 ; a Comuna . 
+comuna_13201 rdfs:label "Puente Alto" ; provincia provincia_132 ; a Comuna . 
+comuna_13202 rdfs:label "Pirque" ; provincia provincia_132 ; a Comuna . 
+comuna_13203 rdfs:label "San José de Maipo" ; provincia provincia_132 ; a Comuna . 
+comuna_13301 rdfs:label "Colina" ; provincia provincia_133 ; a Comuna . 
+comuna_13302 rdfs:label "Lampa" ; provincia provincia_133 ; a Comuna . 
+comuna_13303 rdfs:label "Tiltil" ; provincia provincia_133 ; a Comuna . 
+comuna_13401 rdfs:label "San Bernardo" ; provincia provincia_134 ; a Comuna . 
+comuna_13402 rdfs:label "Buin" ; provincia provincia_134 ; a Comuna . 
+comuna_13403 rdfs:label "Calera de Tango" ; provincia provincia_134 ; a Comuna . 
+comuna_13404 rdfs:label "Paine" ; provincia provincia_134 ; a Comuna . 
+comuna_13501 rdfs:label "Melipilla" ; provincia provincia_135 ; a Comuna . 
+comuna_13502 rdfs:label "Alhué" ; provincia provincia_135 ; a Comuna . 
+comuna_13503 rdfs:label "Curacaví" ; provincia provincia_135 ; a Comuna . 
+comuna_13504 rdfs:label "María Pinto" ; provincia provincia_135 ; a Comuna . 
+comuna_13505 rdfs:label "San Pedro" ; provincia provincia_135 ; a Comuna . 
+comuna_13601 rdfs:label "Talagante" ; provincia provincia_136 ; a Comuna . 
+comuna_13602 rdfs:label "El Monte" ; provincia provincia_136 ; a Comuna . 
+comuna_13603 rdfs:label "Isla de Maipo" ; provincia provincia_136 ; a Comuna . 
+comuna_13604 rdfs:label "Padre Hurtado" ; provincia provincia_136 ; a Comuna . 
+comuna_13605 rdfs:label "Peñaflor" ; provincia provincia_136 ; a Comuna . 
+provincia_11 rdfs:label "Iquique" ; region region_1 ; a Provincia . 
+provincia_14 rdfs:label "Tamarugal" ; region region_1 ; a Provincia . 
+provincia_21 rdfs:label "Antofagasta" ; region region_2 ; a Provincia . 
+provincia_22 rdfs:label "El Loa" ; region region_2 ; a Provincia . 
+provincia_23 rdfs:label "Tocopilla" ; region region_2 ; a Provincia . 
+provincia_31 rdfs:label "Copiapó" ; region region_3 ; a Provincia . 
+provincia_32 rdfs:label "Chañaral" ; region region_3 ; a Provincia . 
+provincia_33 rdfs:label "Huasco" ; region region_3 ; a Provincia . 
+provincia_41 rdfs:label "Elqui" ; region region_4 ; a Provincia . 
+provincia_42 rdfs:label "Choapa" ; region region_4 ; a Provincia . 
+provincia_43 rdfs:label "Limarí" ; region region_4 ; a Provincia . 
+provincia_51 rdfs:label "Valparaíso" ; region region_5 ; a Provincia . 
+provincia_52 rdfs:label "Isla de Pascua" ; region region_5 ; a Provincia . 
+provincia_53 rdfs:label "Los Andes" ; region region_5 ; a Provincia . 
+provincia_54 rdfs:label "Petorca" ; region region_5 ; a Provincia . 
+provincia_55 rdfs:label "Quillota" ; region region_5 ; a Provincia . 
+provincia_56 rdfs:label "San Antonio" ; region region_5 ; a Provincia . 
+provincia_57 rdfs:label "San Felipe de Aconcagua" ; region region_5 ; a Provincia . 
+provincia_61 rdfs:label "Cachapoal" ; region region_6 ; a Provincia . 
+provincia_62 rdfs:label "Cardenal Caro" ; region region_6 ; a Provincia . 
+provincia_63 rdfs:label "Colchagua" ; region region_6 ; a Provincia . 
+provincia_71 rdfs:label "Talca" ; region region_7 ; a Provincia . 
+provincia_72 rdfs:label "Cauquenes" ; region region_7 ; a Provincia . 
+provincia_73 rdfs:label "Curicó" ; region region_7 ; a Provincia . 
+provincia_74 rdfs:label "Linares" ; region region_7 ; a Provincia . 
+provincia_81 rdfs:label "Concepción" ; region region_8 ; a Provincia . 
+provincia_82 rdfs:label "Arauco" ; region region_8 ; a Provincia . 
+provincia_83 rdfs:label "Biobío" ; region region_8 ; a Provincia . 
+provincia_84 rdfs:label "Ñuble" ; region region_8 ; a Provincia . 
+provincia_91 rdfs:label "Cautín" ; region region_9 ; a Provincia . 
+provincia_92 rdfs:label "Malleco" ; region region_9 ; a Provincia . 
+provincia_101 rdfs:label "Llanquihue" ; region region_10 ; a Provincia . 
+provincia_102 rdfs:label "Chiloé" ; region region_10 ; a Provincia . 
+provincia_103 rdfs:label "Osorno" ; region region_10 ; a Provincia . 
+provincia_104 rdfs:label "Palena" ; region region_10 ; a Provincia . 
+provincia_111 rdfs:label "Coihaique" ; region region_11 ; a Provincia . 
+provincia_112 rdfs:label "Aisén" ; region region_11 ; a Provincia . 
+provincia_113 rdfs:label "Capitán Prat" ; region region_11 ; a Provincia . 
+provincia_114 rdfs:label "General Carrera" ; region region_11 ; a Provincia . 
+provincia_121 rdfs:label "Magallanes" ; region region_12 ; a Provincia . 
+provincia_122 rdfs:label "Antártica Chilena" ; region region_12 ; a Provincia . 
+provincia_123 rdfs:label "Tierra del Fuego" ; region region_12 ; a Provincia . 
+provincia_124 rdfs:label "Ultima Esperanza" ; region region_12 ; a Provincia . 
+provincia_131 rdfs:label "Santiago" ; region region_13 ; a Provincia . 
+provincia_132 rdfs:label "Cordillera" ; region region_13 ; a Provincia . 
+provincia_133 rdfs:label "Chacabuco" ; region region_13 ; a Provincia . 
+provincia_134 rdfs:label "Maipo" ; region region_13 ; a Provincia . 
+provincia_135 rdfs:label "Melipilla" ; region region_13 ; a Provincia . 
+provincia_136 rdfs:label "Talagante" ; region region_13 ; a Provincia . 
+provincia_141 rdfs:label "Valdivia" ; region region_14 ; a Provincia . 
+provincia_142 rdfs:label "Ranco" ; region region_14 ; a Provincia . 
+provincia_151 rdfs:label "Arica" ; region region_15 ; a Provincia . 
+provincia_152 rdfs:label "Parinacota" ; region region_15 ; a Provincia . 
+region_1 rdfs:label "Tarapacá" ; a Region . 
+region_2 rdfs:label "Antofagasta" ; a Region . 
+region_3 rdfs:label "Atacama" ; a Region . 
+region_4 rdfs:label "Coquimbo" ; a Region . 
+region_5 rdfs:label "Valparaíso" ; a Region . 
+region_6 rdfs:label "Región del Libertador Gral. Bernardo O'Higgins" ; a Region . 
+region_7 rdfs:label "Región del Maule" ; a Region . 
+region_8 rdfs:label "Región del Biobío" ; a Region . 
+region_9 rdfs:label "Región de La Araucanía" ; a Region . 
+region_10 rdfs:label "Región de Los Lagos" ; a Region . 
+region_11 rdfs:label "Región Aisén del Gral. Carlos Ibañez del Campo" ; a Region . 
+region_12 rdfs:label "Región de Magallanes y de la Antártica Chilena" ; a Region . 
+region_13 rdfs:label "Región Metropolitana de Santiago" ; a Region . 
+region_14 rdfs:label "Región de Los Ríos" ; a Region . 
+region_15 rdfs:label "Arica y Parinacota" ; a Region . 

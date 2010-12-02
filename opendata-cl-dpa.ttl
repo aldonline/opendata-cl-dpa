@@ -1,5 +1,5 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
-@base  <http://opendata.cl/> .
+@base  <http://opendata.cl/dpa/> .
 
 comuna_15101 rdfs:label "Arica" ; provincia provincia_151 ; a Comuna . 
 comuna_15102 rdfs:label "Camarones" ; provincia provincia_151 ; a Comuna . 

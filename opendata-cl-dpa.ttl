@@ -1,5 +1,11 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
-@base  <http://opendata.cl/dpa/> .
+@base  <http://opendata.cl/dpa> .
+
+# by convention, this data should be loaded into a graph named <http://opendata.cl/dpa>
+# for example, to load from disk into virtuoso:
+#   ttlp_mt_local_file('opendata-cl-dpa.ttl', '', 'http://opendata.cl/dpa' );
+# and then to test:
+#  sparql select * from <http://opendata.cl/dpa> where { ?s ?p ?o } ;
 
 comuna_15101 rdfs:label "Arica" ; provincia provincia_151 ; a Comuna . 
 comuna_15102 rdfs:label "Camarones" ; provincia provincia_151 ; a Comuna . 
